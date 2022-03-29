@@ -1,5 +1,7 @@
 # Maquetación CSS Flexbox
-Maquetación CSS con flexbox, aplicando el concepto Mobile First.
+<ul>
+  <li>Maquetación CSS con flexbox, aplicando el concepto Mobile First.</li>
+ </ul>
 
 ### Vista Mobile
 <img src="https://i.postimg.cc/Bn6gNJt7/Mobile.jpg" width="800"/>
