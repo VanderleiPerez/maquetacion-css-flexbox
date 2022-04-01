@@ -1,4 +1,4 @@
-# Maquetación CSS Flexbox
+# Maquetación CSS flexbox
 <ul>
   <li>Maquetación CSS con flexbox, aplicando el concepto Mobile First.</li>
  </ul>
