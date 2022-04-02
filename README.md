@@ -3,9 +3,8 @@
   <li>Maquetación CSS con flexbox, aplicando el concepto Mobile First.</li>
  </ul>
 
-### Pantalla Mobile
-<img src="https://i.postimg.cc/Bn6gNJt7/Mobile.jpg" width="1000"/>
+### Pantalla
+<img src="https://i.postimg.cc/xjWmSp32/lista-precio-1.png" width="1000"/>
 
-### Pantalla Desktop
-<img src="https://i.postimg.cc/NjZrvtf0/Destok.jpg" width="1000"/>
+<img src="https://i.postimg.cc/R0V6Tk4c/lista-precio-2.png" width="1000"/>
 
